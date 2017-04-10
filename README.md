@@ -11,7 +11,5 @@ Het maakt deel uit van een praktijkopdracht voor het vak klasmanagement en refle
 * Summary \(die gitbook gebruikt\)
 * Deze README
 
-een foutje
-
 
 
